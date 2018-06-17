@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Goodly Doggo</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://wallpaper-house.com/data/out/9/wallpaper2you_318217.jpg");
+      color: white;
+      font-family: courier;
+    }
+    img {
+      border-radius: 50%;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://i.pinimg.com/564x/3b/72/20/3b7220ac62ae8ce18e33a968eb2c0b2a.jpg" height="300">
+  <h1>The Goodly Doggo</h1>
+  <p>Welcome to The Goodly Doggo, the world's only community for classy doggos and puppers. If you are a doggo or pupper of fashionable inclination and would like to find others like yourself, please sign up below. 
+  <br>
+  *Note: We are not a dating site, though the number of doggo couples who have met through The Goodly Doggo is constantly growing.</p>
+  <input type="name" placeholder="Name">
+  <input type="age" placeholder="Age (in dog years)">
+  <input type="email" placeholder="Email">
+  <input type="submit">
+  <h2>Testamonials</h2>
+  <img src="http://cdn.lifebuzz.com/images/11784/lifebuzz-bd9ae4cdb4fbc883c6195bb3ac261295-limit_2000.jpg" height="250">
+  <h3>Fred P. Frankenhauser</h3>
+  <p>"I joined TGD back in '09. That was after 'Nam, but before I became a complete hipster. Thanks to TGD, I have hipster'd myself out all the way! My life is now dedicated to being the avocado-est hipster I can be."</p>
+   <img src="http://www.ziggyshaven.com/images/dog-fashion.jpg" height="250">
+  <h3>Angelina Pollyanna Addington</h3>
+  <p>"Yes, hello, my name is Angelina but my family calls me Angel. I love The Goodly Doggo because I get a lot of attention. It's where all the Hot Dogs are." </p>
+   <img src="https://media1.popsugar-assets.com/files/thumbor/1TntxcuYc2D1MBKx5PAEFtQR21g/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/01/13/856/n/1922564/a3c2b67a9693d900_Screen_Shot_2015-01-13_at_2.31.38_PM/i/Most-Fashionable-Dogs-Instagram.png" height="250">
+  <h3>Billy Jones</h3>
+  <p>"Uhh, I was on my way to the skate park and got lost and some dog in a monocle recruited me? I don't even want to be here."  </p>
+    <img src="https://thehydrant.files.wordpress.com/2015/03/04.jpg?w=640" height="250">
+  <h3>Rudolph "Chillin' Rudy" Santano</h3>
+  <p>"Hey, girl. Do you wanna know what love is? Well, let me show you. *wink* I love long walks on the beach, smoking cigars, making it rain with 100's, and meeting the mafia boys at ni- whoops, hehe, I didn't mean to say that out loud." </p>
+  <img src="https://i.pinimg.com/736x/26/d5/40/26d540213206b4f78f52d00606fe27d6--fashion-online-online-pet-supplies.jpg" height="250">
+  <h3>Angelica (right), Eliza (left), <br>& And Peggy (center)</h3>
+  <p>"We're looking for a mind at work, work, hey, in the goodliest city in the doggo world!" </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dog_as_TV_star_Belgian_National_Day_Brussels_2012.jpg/220px-Dog_as_TV_star_Belgian_National_Day_Brussels_2012.jpg" height="250">
+  <h3>Diego Rodriguez</h3>
+  <p>"Amo The Goodly Doggo. He hecho muchos amigos y conexiones a través de este sitio. Gran lugar." </p>
+   <img src="http://prodstatics3azcdn1.purewow.com/images/articles/2015_12/NY_Dogs_List1.jpg" height="250">
+  <h3> Quinoa A. Craftbeer</h3>
+  <p>"Everything you need to know about me is in my name 
+  (the A is for Avocado). I love fashion, taking pics for the 'gram, going barefoot, and playing my acoustic guitar around campfires. Also, I'm NOT a hipster." </p>
+</body>
+</html>
